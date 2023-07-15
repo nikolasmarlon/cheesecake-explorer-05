@@ -22,7 +22,7 @@ body{
 main{
     max-width: 32rem;
     margin-inline: auto;
-    background-color: red;
+    
     padding: 5.6rem 4rem;
     box-sizing: content-box;
 }
